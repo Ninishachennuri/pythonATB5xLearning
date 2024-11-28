@@ -9,10 +9,4 @@ set1.add("Pramod")
 set1.add("Pramod")
 
 
-
-
-# Neelam
-# Neelam.
-
-
 print(set1)
